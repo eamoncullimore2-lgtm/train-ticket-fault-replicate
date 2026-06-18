@@ -1,4 +1,4 @@
-FROM java:8-jre
+FROM eclipse-temurin:8-jre
 
 
 ADD ./target/ts-travel2-service-1.0.jar /app/
